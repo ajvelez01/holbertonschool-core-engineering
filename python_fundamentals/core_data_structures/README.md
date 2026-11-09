@@ -4,3 +4,4 @@
 - `print_matrix_integer.py`: defines print_matrix_integer(matrix), which prints each row of a matrix of integers on its own line, values separated by a single space.
 - `add_tuple.py`: defines add_tuple(tuple_a, tuple_b), which returns a new tuple with the sums of the first two values, treating missing values as 0.
 - `common_elements.py`: defines common_elements(set_1, set_2), which returns a new set with the elements present in both sets.
+- `update_dictionary.py`: defines update_dictionary(a_dictionary, key, value), which replaces the value of key or adds it if missing, and returns the dictionary.
