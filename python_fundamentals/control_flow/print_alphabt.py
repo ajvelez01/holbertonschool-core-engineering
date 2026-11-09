@@ -3,4 +3,4 @@ letters = ""
 for c in "abcdefghijklmnopqrstuvwxyz":
     if c != "q" and c != "e":
         letters += c
-print("{}".format(letters))
+print("{}".format(letters), end="")
