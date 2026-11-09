@@ -2,3 +2,4 @@
 - `element_at.py`: defines element_at(my_list, idx), which returns the element at idx, or None if idx is negative or out of range.
 - `replace_in_list.py`: defines replace_in_list(my_list, idx, element), which replaces the element at idx and returns the list, or returns it unchanged if idx is out of range.
 - `print_matrix_integer.py`: defines print_matrix_integer(matrix), which prints each row of a matrix of integers on its own line, values separated by a single space.
+- `add_tuple.py`: defines add_tuple(tuple_a, tuple_b), which returns a new tuple with the sums of the first two values, treating missing values as 0.
