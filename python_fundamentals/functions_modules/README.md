@@ -1,3 +1,4 @@
 - `islower.py`: defines islower(c), which returns True if c is a lowercase ASCII letter and False otherwise.
 - `uppercase.py`: defines uppercase(str), which prints the string in uppercase followed by a new line, using ASCII conversion.
 - `print_last_digit.py`: defines print_last_digit(number), which prints and returns the last digit of number, always positive.
+- `pow.py`: defines pow(a, b), which returns a raised to the power of b using a loop.
