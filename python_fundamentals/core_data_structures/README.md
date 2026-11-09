@@ -5,3 +5,4 @@
 - `add_tuple.py`: defines add_tuple(tuple_a, tuple_b), which returns a new tuple with the sums of the first two values, treating missing values as 0.
 - `common_elements.py`: defines common_elements(set_1, set_2), which returns a new set with the elements present in both sets.
 - `update_dictionary.py`: defines update_dictionary(a_dictionary, key, value), which replaces the value of key or adds it if missing, and returns the dictionary.
+- `best_score.py`: defines best_score(a_dictionary), which returns the key with the biggest integer value, or None if the dictionary is None or empty.
