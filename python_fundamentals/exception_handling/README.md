@@ -1,1 +1,2 @@
 - `safe_print_list.py`: defines safe_print_list(my_list, x), which prints up to x elements of the list on one line and returns how many were printed.
+- `safe_print_list_integers.py`: defines safe_print_list_integers(my_list, x), which prints the first x integers of the list on one line, skipping other types, and returns how many were printed.
