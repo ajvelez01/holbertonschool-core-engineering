@@ -2,3 +2,4 @@
 - `shapes.py`: defines the abstract Shape class, Circle and Rectangle implementations, and shape_info(shape), which prints area and perimeter using duck typing.
 - `flyingfish.py`: defines Fish and Bird, and FlyingFish inheriting from both, overriding swim, fly and habitat.
 - `dragon.py`: defines SwimMixin and FlyMixin, and Dragon inheriting from both, with its own roar() method.
+- `verboselist.py`: defines VerboseList, a list subclass that prints a notification on append, extend, remove and pop.
