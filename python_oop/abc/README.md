@@ -1,1 +1,3 @@
 - `animals.py`: defines the abstract Animal class with abstract sound(), and the subclasses Dog ("Bark") and Cat ("Meow").
+- `shapes.py`: defines the abstract Shape class, Circle and Rectangle implementations, and shape_info(shape), which prints area and perimeter using duck typing.
+- `flyingfish.py`: defines Fish and Bird, and FlyingFish inheriting from both, overriding swim, fly and habitat.
