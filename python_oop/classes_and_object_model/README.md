@@ -3,3 +3,5 @@
 - `2-square.py`: defines a Square class whose private size defaults to 0 and is validated (integer, >= 0).
 - `3-square.py`: defines a Square class with a validated private size and an area() method that returns size squared.
 - `4-square.py`: defines a Square class with a validated size property (getter and setter) and an area() method.
+- `6-square.py`: defines a Square class with validated size and position, area(), my_print() and __str__ (same output as my_print).
+- `1-rectangle.py`: defines a Rectangle class with validated width and height properties.
