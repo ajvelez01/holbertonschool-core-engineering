@@ -17,8 +17,5 @@ class Square(Rectangle):
 
     def __str__(self):
         """Returns the description [Square] side/side."""
-        return "[Square] {}/{}".format(self.width_value(), self.width_value())
-
-    def width_value(self):
-        """Returns the side length stored by the parent class."""
-        return self._Rectangle__width
+        return "[Square] {}/{}".format(self._Rectangle__width,
+                                       self._Rectangle__height)
