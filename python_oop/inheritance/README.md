@@ -1,3 +1,5 @@
 - `0-polymorphism_demo.py`: defines Animal, Dog and Cat to show method overriding, polymorphism, isinstance and issubclass.
 - `base_geometry.py`: defines BaseGeometry with area() (not implemented) and integer_validator(name, value).
 - `1-rectangle.py`: defines Rectangle, which inherits from BaseGeometry and validates width and height with integer_validator.
+- `1-square.py`: defines Square, which inherits from Rectangle and takes a single size for both sides.
+- `2-square.py`: extends Square with a string description in the form [Square] side/side.
