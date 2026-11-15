@@ -1,0 +1,1 @@
+- `0-polymorphism_demo.py`: defines Animal, Dog and Cat to show method overriding, polymorphism, isinstance and issubclass.
