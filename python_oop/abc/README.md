@@ -1,0 +1,1 @@
+- `animals.py`: defines the abstract Animal class with abstract sound(), and the subclasses Dog ("Bark") and Cat ("Meow").
