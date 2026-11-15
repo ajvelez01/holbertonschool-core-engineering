@@ -5,3 +5,4 @@
 - `4-square.py`: defines a Square class with a validated size property (getter and setter) and an area() method.
 - `6-square.py`: defines a Square class with validated size and position, area(), my_print() and __str__ (same output as my_print).
 - `1-rectangle.py`: defines a Rectangle class with validated width and height properties.
+- `2-rectangle.py`: adds area() and perimeter() to Rectangle; perimeter is 0 when width or height is 0.
