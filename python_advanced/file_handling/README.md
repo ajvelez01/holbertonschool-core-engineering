@@ -1,0 +1,1 @@
+- `read_file.py`: defines read_file(filename), which prints the content of a UTF-8 text file using the with statement.
